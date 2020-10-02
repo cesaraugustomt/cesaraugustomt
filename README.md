@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<a href="https://github.com/K-Kraken"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+
 </div>
 
 You have finally discovered my Github profile. <br>
