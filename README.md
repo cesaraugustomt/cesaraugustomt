@@ -18,7 +18,6 @@ Happy Coding! 😊
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/cesar-augusto-6513551a4/)](https://https://www.linkedin.com/in/cesar-augusto-6513551a4/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=066996753518&text=Olá!)](https://api.whatsapp.com/send?phone=066996753518&text=Olá!)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatocsaugusto@gmail.com)](mailto:contatocsaugusto@gmail.com)
 
 
@@ -27,4 +26,4 @@ Happy Coding! 😊
 </div>
 
 
-⭐ From [ABSphreak](https://github.com/ABSphreak)
+
